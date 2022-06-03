@@ -1,0 +1,2 @@
+
+for N in {1..4}; do python3 ../facenet/src/align/align_dataset_mtcnn.py E:/ProjetoRefazer/face_recognition_softmax/lfw_funneled/ E:/ProjetoRefazer/face_recognition_softmax/lfw_funneled_mcnn/ --image_size 224 --margin 32 --random_order --gpu_memory_fraction 0.24 & done

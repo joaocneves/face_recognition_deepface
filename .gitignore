@@ -1,0 +1,5 @@
+venv/*
+venv-gpu/*
+checkpoints/*
+lfw_aligned_mtcnn_224/*
+lfw_funneled/*
